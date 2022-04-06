@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+}
+#login {
+  background-color: #eeeeee;
+  width: 1200px;
+  margin: auto;
+}
+#liler {
+  background-color: #70ccc2;
+  display: inline-flex;
+  margin-left: 73px;
+}
+.colon {
+  /*display: inline-block;*/
+  border: 1px solid white;
+  padding: 0 120px;
+}
+ul {
+  list-style: none;
+}
